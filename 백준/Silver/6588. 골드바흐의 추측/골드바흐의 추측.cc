@@ -5,7 +5,6 @@
 
 using namespace std;
 
-vector<pair<int, int>> odd[MAX + 1];
 bool prime[MAX + 1];
 
 void getPrime() {
